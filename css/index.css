@@ -16,8 +16,11 @@
      justify-content: space-around;
  }
 
- h3 {
+ a {
      color: white;
+     list-style-type: none;
+     text-decoration: none;
+     margin-left: 45px;
  }
 
  .nav-img {
@@ -26,10 +29,6 @@
 
  .nav-bar {
      margin-top: 20px;
- }
-
- h3 {
-     text-align: center;
  }
 
  main {
@@ -42,6 +41,12 @@
      text-decoration-line: underline;
      background-color: rgb(125, 9, 9);
      margin-left: 2px;
+
+ }
+
+ li {
+     list-style-type: none;
+     text-decoration: none;
  }
 
  article {
